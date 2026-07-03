@@ -1,10 +1,11 @@
 ## Olá!! Eu sou a Giovana Frade☺️
-<h3>Atualmente, estou cursando Desenvolvimento de Sistemas pelo SENAI Armando de Arruda Pereira💻 </h3>
-<picture>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanafrade&layout=compact&langs_count=8&card_width=320&theme=moltack" />
-</a>
-</picture>
+
+<h3>Sou Desenvolvedora FullStack </h3>
+
+###
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=giovanafrade&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+
 <div style="display: inline_block"><br>
    <img align="center"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
    <img align="center"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
